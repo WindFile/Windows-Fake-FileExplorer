@@ -1,7 +1,8 @@
-# Windows-Fake-FileExplorer
+# 📁 Windows-Fake-FileExplorer
+
 This repository contains a folder structure created by WindFile.
 
-Folders included:
+# 📂 Folders Included
 
 - Desktop
 
@@ -15,6 +16,9 @@ Folders included:
 
 - Videos
 
-This does NOT interact, touch, or mess your computer. This is a safe and fun folder that doesn't mess your computer.
+This project does not interact with, modify, or access your computer’s system files.
 
-They are visual decoration file that cannot touch your C:/ drive, and it'll be saved to Downloads but you can move it anywhere on your PC.
+It is a simple folder structure intended for safe and fun use.
+It does not access the C:\ drive or make any system changes.
+
+When downloaded, it will be saved to your Downloads folder by default, and you may move it anywhere on your PC.
